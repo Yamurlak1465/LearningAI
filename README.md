@@ -1,2 +1,0 @@
-# LearningAI
-Learning AI
